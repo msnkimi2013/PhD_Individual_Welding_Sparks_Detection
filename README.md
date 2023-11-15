@@ -8,4 +8,4 @@ Individual-Welding Sparks Detection SNUCEM Ph.D. research
 [![Video]](https://youtu.be/CY0Jh9E8ZCU?si=2I_46J_IE2P_wUK4)
 
 # SCI Paper
-[link](https://www.mdpi.com/1424-8220/23/15/6826)
+[Dr Jin Xi](https://www.mdpi.com/1424-8220/23/15/6826)
